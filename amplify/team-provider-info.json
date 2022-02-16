@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-smile-dev-21714-authRole",
+      "UnauthRoleArn": "arn:aws:iam::965619447539:role/amplify-smile-dev-21714-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::965619447539:role/amplify-smile-dev-21714-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-smile-dev-21714-deployment",
+      "UnauthRoleName": "amplify-smile-dev-21714-unauthRole",
+      "StackName": "amplify-smile-dev-21714",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:965619447539:stack/amplify-smile-dev-21714/4b537590-8f4c-11ec-8d28-029e172cde30",
+      "AmplifyAppId": "d3hoe1enktp51"
+    },
+    "categories": {
+      "auth": {
+        "smile": {}
+      }
+    }
+  }
+}
